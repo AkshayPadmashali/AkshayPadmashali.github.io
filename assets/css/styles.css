@@ -437,6 +437,7 @@ img {
   width: 300px;
   justify-self: center;
   align-self: center;
+  border: 1px solid #579ce0;
   border-radius: 0.5rem;
 }
 
